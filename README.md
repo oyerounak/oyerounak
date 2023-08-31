@@ -5,7 +5,7 @@
 
 **About Me!**
 - 💻 I’m interested in coding and learning new areas in tech.
-- 🌱 I’m currently learning Data Structures and Algorithm.
+- 🌱 I’m currently learning MERN Stack & Data Structures and Algorithm.
 - 📫 Reach me at **rounaks4569@gmail.com**
 
 - 📄 Resume [https://bitly.ws/Tyni](https://bitly.ws/Tyni)
