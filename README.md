@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning MERN Stack & Data Structures and Algorithm.
 - 🚀 In-depth understanding of **React.js** and its core principles.
 - ⚛️ Experience with **React Hooks** and building custom react-hooks.
-- 🔧 Familiarity with common tools such as **Git, Github**.
+- 🔧 Familiarity with common tools such as **Git & Github**.
 - 📈 Ability to understand business requirements and translate them into technical requirements.
 - 📄 <a href="https://bitly.ws/Tyni">Resume</a>
 <a href="mailto:rounaks4569@gmail.com" target="_blank">
