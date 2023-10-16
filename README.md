@@ -18,7 +18,7 @@
 - ⚛️ Experience with **React Hooks** and building custom react-hooks.
 - 🔧 Familiarity with common tools such as **Git & Github**.
 - 📈 Ability to understand business requirements and translate them into technical requirements.
-- 📄 <a href="https://bitly.ws/Tyni">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1tCYClPBNn1pyVzu-4G47uGADcAQQN1oE/view?usp=share_link">Resume</a>
 <a href="mailto:rounaks4569@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Raunak-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
